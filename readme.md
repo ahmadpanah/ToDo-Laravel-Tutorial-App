@@ -4,3 +4,5 @@
 
 Simple CRUD Project for beginner developer to learn HOW Laravel and MVC Works.
 
+After Install, Go To localhost/todo
+
